@@ -114,11 +114,21 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhuvan-somisetty&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-somisetty&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide=jupyter%20notebook"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhuvan-somisetty&theme=github_dark"/>
 &nbsp;
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhuvan-somisetty&theme=github_dark"/>
-&nbsp;
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhuvan-somisetty&theme=github_dark"/>
+&nbsp;
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhuvan-somisetty&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
@@ -169,6 +179,24 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-somisetty&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb20&hide_border=true&custom_title=Bhuvan's%20Contribution%20Graph&radius=6"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    3D CONTRIBUTION GRAPH                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🌐 &nbsp;3D Contribution Graph</h2>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg"/>
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -392,5 +420,6 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 <sub>Crafted with precision · Powered by curiosity · Built for impact</sub>
 
 </div>
+
 
 
