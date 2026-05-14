@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: "0 2 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
 
 jobs:
   build:
@@ -28,4 +26,4 @@ jobs:
           git config user.email "action@github.com"
           git config user.name "GitHub Action"
           git add -A
-          git diff --staged --quiet || (git commit -m "chore: update 3D contribution graph [skip ci]" && git pull --rebase && git push)
+          git diff --staged --quiet || (git commit -m "chore: update 3D contribution graph [skip ci]" && git push)
