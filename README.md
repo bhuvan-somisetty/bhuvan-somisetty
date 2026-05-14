@@ -114,8 +114,9 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 <div align="center">
 
 <a href="https://github.com/bhuvan-somisetty">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhuvan-somisetty&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-somisetty&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhuvan-somisetty&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&hide_border=false&cache_seconds=1800"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-somisetty&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=false&cache_seconds=1800"/>
 </a>
 
 </div>
@@ -127,7 +128,7 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 <div align="center">
 
 <a href="https://github.com/bhuvan-somisetty">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-somisetty&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
+  <img width="68%" src="https://streak-stats.demolab.com/?user=bhuvan-somisetty&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
 </a>
 
 </div>
@@ -160,21 +161,7 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 
 <div align="center">
 
-[![Bhuvan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-somisetty&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph%20—%20Bhuvan%20Somisetty)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<br/>
-
-<!-- CONTRIBUTION SNAKE -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvan-somisetty/bhuvan-somisetty/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhuvan-somisetty/bhuvan-somisetty/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/bhuvan-somisetty/bhuvan-somisetty/output/github-snake-dark.svg" width="100%"/>
-</picture>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-somisetty&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb20&hide_border=true&custom_title=Bhuvan's%20Contribution%20Graph&radius=6"/>
 
 </div>
 
@@ -188,42 +175,63 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 
 <br/>
 
-<div align="center">
-
-<!--  PROJECT 1 -->
-
-<a href="https://github.com/bhuvan-somisetty/clubsphere">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhuvan-somisetty&repo=clubsphere&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
-<a href="https://github.com/bhuvan-somisetty/alphaguard-ai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhuvan-somisetty&repo=alphaguard-ai&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/bhuvan-somisetty/hostel-mess-feedback">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhuvan-somisetty&repo=hostel-mess-feedback&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- PROJECT DETAILS TABLE -->
-
-<div align="center">
-
-| 🏗️ Project | 🔍 Description | 🛠️ Stack | 🔗 |
-|:---|:---|:---|:---|
-| **ClubSphere** | Full-stack platform to manage college clubs — memberships, events, announcements | React · Node.js · PostgreSQL | [→](https://github.com/bhuvan-somisetty/clubsphere) |
-| **AlphaGuard AI** | AI-powered child safety system with real-time threat detection & smart alerts | Python · TensorFlow · FastAPI | [→](https://github.com/bhuvan-somisetty/alphaguard-ai) |
-| **Hostel & Mess Feedback** | Centralized feedback platform for hostel residents with analytics dashboard | React · Express.js · MongoDB | [→](https://github.com/bhuvan-somisetty/hostel-mess-feedback) |
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 ClubSphere</h3>
+      <p>Full-stack platform to manage college clubs — memberships, events, and announcements with real-time updates and role-based access.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+      </p>
+      <a href="https://github.com/bhuvan-somisetty/clubsphere">
+        <img src="https://img.shields.io/badge/View%20Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AlphaGuard AI</h3>
+      <p>AI-powered child safety system with real-time threat detection, smart alerts, and intelligent content monitoring using computer vision.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/>
+      </p>
+      <a href="https://github.com/bhuvan-somisetty/alphaguard-ai">
+        <img src="https://img.shields.io/badge/View%20Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 Hostel & Mess Feedback</h3>
+      <p>Centralized feedback platform for hostel residents with analytics dashboard, complaint tracking, and admin resolution workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+      </p>
+      <a href="https://github.com/bhuvan-somisetty/hostel-mess-feedback">
+        <img src="https://img.shields.io/badge/View%20Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 More Coming Soon...</h3>
+      <p>Always building something new. Follow me on GitHub to stay updated on my latest projects and open source contributions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Active%20Builder-58a6ff?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Open%20Source-Contributor-1f6feb?style=flat-square"/>
+      </p>
+      <a href="https://github.com/bhuvan-somisetty?tab=repositories">
+        <img src="https://img.shields.io/badge/All%20Repos-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
