@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=800&height=55&lines=🎓+B.Tech+CSE+AI%2FML+%40+Polaris+School+of+Technology;⚡+Full+Stack+Developer+%7C+React+%2B+Node.js;🤖+AI%2FML+Enthusiast+%26+Open+Source+Builder;🌍+Building+Digital+Products+that+Matter;🚀+Turning+Ideas+into+Scalable+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=650&height=55&lines=🎓+B.Tech+CSE+AIML;⚡+Full+Stack+Developer+%7C+React+%2B+Node.js;🤖+AI%2FML+Enthusiast+%26+Open+Source+Builder;🌍+Building+Digital+Products+that+Matter;🚀+Turning+Ideas+into+Scalable+Reality)](https://git.io/typing-svg)
 
 </div>
 
@@ -48,14 +48,15 @@
 ```yaml
 name:     Bhuvan Somisetty
 role:     Full Stack Developer & AI/ML Enthusiast
-study:    B.Tech CSE (AI/ML Specialization)
+study:    B.Tech CSE AIML
 location: India 🇮🇳
 focus:    Building scalable web apps & AI-powered products
 mantra:   "Ship fast. Learn faster. Build things that matter."
 ```
 
-- 🔭 &nbsp;Currently building **ClubSphere** — a full-stack club management platform
 - 🤖 &nbsp;Developing **AlphaGuard AI** — an intelligent child safety system
+- 🔭 &nbsp;Currently building **ClubSphere** — a full-stack club management platform
+- 🐍 &nbsp;Built **CLI Alarms** — a Python command-line alarm & reminder tool
 - 🌱 &nbsp;Deepening expertise in **Distributed Systems**, **LLMs**, and **System Design**
 - 🛠️ &nbsp;Open source contributor — I believe in building in public
 - 💬 &nbsp;Ask me about React, Node.js, Go, or anything AI/ML
@@ -184,19 +185,6 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 ClubSphere</h3>
-      <p>Full-stack platform to manage college clubs — memberships, events, and announcements with real-time updates and role-based access.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-      </p>
-      <a href="https://github.com/bhuvan-somisetty/clubsphere">
-        <img src="https://img.shields.io/badge/View%20Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
       <h3>🤖 AlphaGuard AI</h3>
       <p>AI-powered child safety system with real-time threat detection, smart alerts, and intelligent content monitoring using computer vision.</p>
       <p>
@@ -206,6 +194,19 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
         <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/>
       </p>
       <a href="https://github.com/bhuvan-somisetty/alphaguard-ai">
+        <img src="https://img.shields.io/badge/View%20Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 ClubSphere</h3>
+      <p>Full-stack platform to manage college clubs — memberships, events, and announcements with real-time updates and role-based access.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+      </p>
+      <a href="https://github.com/bhuvan-somisetty/clubsphere">
         <img src="https://img.shields.io/badge/View%20Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
@@ -226,14 +227,14 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 More Coming Soon...</h3>
-      <p>Always building something new. Follow me on GitHub to stay updated on my latest projects and open source contributions.</p>
+      <h3>🐍 CLI Alarms</h3>
+      <p>Python command-line alarm and reminder tool — set, manage, and trigger alarms directly from your terminal with a clean CLI interface.</p>
       <p>
-        <img src="https://img.shields.io/badge/Status-Active%20Builder-58a6ff?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Open%20Source-Contributor-1f6feb?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CLI-Tool-58a6ff?style=flat-square"/>
       </p>
-      <a href="https://github.com/bhuvan-somisetty?tab=repositories">
-        <img src="https://img.shields.io/badge/All%20Repos-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+      <a href="https://github.com/bhuvan-somisetty/cli-alarms">
+        <img src="https://img.shields.io/badge/View%20Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
   </tr>
@@ -372,3 +373,4 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 <sub>Crafted with precision · Powered by curiosity · Built for impact</sub>
 
 </div>
+
