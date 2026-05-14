@@ -113,11 +113,19 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 
 <div align="center">
 
-<a href="https://github.com/bhuvan-somisetty">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhuvan-somisetty&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&hide_border=false&cache_seconds=1800"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvan-somisetty&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=false&cache_seconds=1800"/>
-</a>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhuvan-somisetty&theme=github_dark"/>
+&nbsp;
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhuvan-somisetty&theme=github_dark"/>
+&nbsp;
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhuvan-somisetty&theme=github_dark"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhuvan-somisetty&theme=github_dark"/>
 
 </div>
 
@@ -127,9 +135,7 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 
 <div align="center">
 
-<a href="https://github.com/bhuvan-somisetty">
-  <img width="68%" src="https://streak-stats.demolab.com/?user=bhuvan-somisetty&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
-</a>
+<img width="68%" src="https://streak-stats.demolab.com/?user=bhuvan-somisetty&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
