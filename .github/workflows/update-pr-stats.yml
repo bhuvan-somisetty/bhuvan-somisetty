@@ -1,0 +1,34 @@
+name: Update PR Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-pr-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch PR Stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TOTAL=$(curl -s -H "Authorization: token $GH_TOKEN"             "https://api.github.com/search/issues?q=type:pr+author:bhuvan-somisetty"             | python3 -c "import sys,json; print(json.load(sys.stdin)['total_count'])")
+
+          MERGED=$(curl -s -H "Authorization: token $GH_TOKEN"             "https://api.github.com/search/issues?q=type:pr+author:bhuvan-somisetty+is:merged"             | python3 -c "import sys,json; print(json.load(sys.stdin)['total_count'])")
+
+          OPEN=$(curl -s -H "Authorization: token $GH_TOKEN"             "https://api.github.com/search/issues?q=type:pr+author:bhuvan-somisetty+is:open"             | python3 -c "import sys,json; print(json.load(sys.stdin)['total_count'])")
+
+          sed -i "s|<!--PR_COUNT-->[0-9]*<!--/PR_COUNT-->|<!--PR_COUNT-->${TOTAL}<!--/PR_COUNT-->|g" README.md
+          sed -i "s|<!--PR_MERGED-->[0-9]*<!--/PR_MERGED-->|<!--PR_MERGED-->${MERGED}<!--/PR_MERGED-->|g" README.md
+          sed -i "s|<!--PR_OPEN-->[0-9]*<!--/PR_OPEN-->|<!--PR_OPEN-->${OPEN}<!--/PR_OPEN-->|g" README.md
+
+      - name: Commit if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: update PR stats [skip ci]" && git push)
