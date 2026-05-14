@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=650&height=55&lines=🎓+B.Tech+CSE+AI%2FML+%40+Polaris+School+of+Technology;⚡+Full+Stack+Developer+%7C+React+%2B+Node.js;🤖+AI%2FML+Enthusiast+%26+Open+Source+Builder;🌍+Building+Digital+Products+that+Matter;🚀+Turning+Ideas+into+Scalable+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=800&height=55&lines=🎓+B.Tech+CSE+AI%2FML+%40+Polaris+School+of+Technology;⚡+Full+Stack+Developer+%7C+React+%2B+Node.js;🤖+AI%2FML+Enthusiast+%26+Open+Source+Builder;🌍+Building+Digital+Products+that+Matter;🚀+Turning+Ideas+into+Scalable+Reality)](https://git.io/typing-svg)
 
 </div>
 
