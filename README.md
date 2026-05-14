@@ -336,9 +336,7 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 
 <div align="center">
 
-![Total PRs](https://img.shields.io/badge/Total%20PRs%20Raised-<!--PR_COUNT-->87<!--/PR_COUNT-->-58a6ff?style=for-the-badge&logo=github&logoColor=white)
-![Merged PRs](https://img.shields.io/badge/Merged-<!--PR_MERGED-->46<!--/PR_MERGED-->-1f6feb?style=for-the-badge&logo=git&logoColor=white)
-![Open PRs](https://img.shields.io/badge/Open-<!--PR_OPEN-->32<!--/PR_OPEN-->-238636?style=for-the-badge&logo=github&logoColor=white)
+![PRs Raised](https://img.shields.io/badge/PRs%20Raised-<!--PR_COUNT-->87<!--/PR_COUNT-->-58a6ff?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -393,4 +391,5 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 <sub>Crafted with precision · Powered by curiosity · Built for impact</sub>
 
 </div>
+
 
