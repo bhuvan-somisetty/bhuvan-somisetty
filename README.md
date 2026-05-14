@@ -327,6 +327,26 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PULL REQUEST STATS                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📬 &nbsp;Pull Request Activity</h2>
+
+<br/>
+
+<div align="center">
+
+![Total PRs](https://img.shields.io/badge/Total%20PRs%20Raised-<!--PR_COUNT-->87<!--/PR_COUNT-->-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![Merged PRs](https://img.shields.io/badge/Merged-<!--PR_MERGED-->46<!--/PR_MERGED-->-1f6feb?style=for-the-badge&logo=git&logoColor=white)
+![Open PRs](https://img.shields.io/badge/Open-<!--PR_OPEN-->32<!--/PR_OPEN-->-238636?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    CONNECT                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
