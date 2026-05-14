@@ -13,16 +13,49 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch PR Count
+      - name: Fetch PR Stats
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          TOTAL=$(curl -s -H "Authorization: token $GH_TOKEN"             "https://api.github.com/search/issues?q=type:pr+author:bhuvan-somisetty"             | python3 -c "import sys,json; print(json.load(sys.stdin)['total_count'])")
+          python3 << EOF
+          import urllib.request, json, os
 
-          sed -i "s|<!--PR_COUNT-->[0-9]*<!--/PR_COUNT-->|<!--PR_COUNT-->${TOTAL}<!--/PR_COUNT-->|g" README.md
+          token = os.environ["GH_TOKEN"]
+          headers = {"Authorization": f"token {token}", "Accept": "application/vnd.github+json"}
+
+          def count_prs(query):
+              total = 0
+              page = 1
+              while True:
+                  url = f"https://api.github.com/search/issues?q={query}&per_page=100&page={page}"
+                  req = urllib.request.Request(url, headers=headers)
+                  with urllib.request.urlopen(req) as r:
+                      data = json.loads(r.read())
+                  items = data["items"]
+                  total += len(items)
+                  if len(items) < 100:
+                      break
+                  page += 1
+              return total
+
+          total  = count_prs("type:pr+author:bhuvan-somisetty")
+          merged = count_prs("type:pr+author:bhuvan-somisetty+is:merged")
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          import re
+          content = re.sub(r"<!--PR_COUNT-->[0-9]*<!--/PR_COUNT-->", f"<!--PR_COUNT-->{total}<!--/PR_COUNT-->", content)
+          content = re.sub(r"<!--PR_MERGED-->[0-9]*<!--/PR_MERGED-->", f"<!--PR_MERGED-->{merged}<!--/PR_MERGED-->", content)
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+
+          print(f"Total: {total}, Merged: {merged}")
+          EOF
 
       - name: Commit if changed
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git diff --quiet README.md || (git add README.md && git commit -m "chore: update PR count [skip ci]" && git push)
+          git diff --quiet README.md || (git add README.md && git commit -m "chore: update PR stats [skip ci]" && git push)
