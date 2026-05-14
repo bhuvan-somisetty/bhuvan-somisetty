@@ -18,14 +18,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: bhuvan-somisetty
-          SETTING_JSON: |
-            {
-              "githubUserName": "bhuvan-somisetty",
-              "title": "Bhuvan Somisetty",
-              "backgroundColor": "#0d1117",
-              "type": "NORMAL",
-              "foregroundColor": "#58a6ff"
-            }
 
       - name: Commit & Push
         run: |
