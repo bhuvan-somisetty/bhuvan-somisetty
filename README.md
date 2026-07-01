@@ -364,8 +364,8 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 
 <div align="center">
 
-![PRs Raised](https://img.shields.io/badge/PRs%20Raised-<!--PR_COUNT-->117<!--/PR_COUNT-->-58a6ff?style=for-the-badge&logo=github&logoColor=white)
-![PRs Merged](https://img.shields.io/badge/PRs%20Merged-<!--PR_MERGED-->37<!--/PR_MERGED-->-1f6feb?style=for-the-badge&logo=git&logoColor=white)
+![PRs Raised](https://img.shields.io/badge/PRs%20Raised-<!--PR_COUNT-->123<!--/PR_COUNT-->-58a6ff?style=for-the-badge&logo=github&logoColor=white)
+![PRs Merged](https://img.shields.io/badge/PRs%20Merged-<!--PR_MERGED-->38<!--/PR_MERGED-->-1f6feb?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
