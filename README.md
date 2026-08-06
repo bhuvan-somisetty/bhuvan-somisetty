@@ -114,9 +114,6 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=bhuvan-somisetty&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bhuvan-somisetty&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide=jupyter%20notebook"/>
 
 </div>
 
