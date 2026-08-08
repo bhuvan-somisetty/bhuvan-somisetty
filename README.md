@@ -2,11 +2,13 @@
 <!--                    HERO — HEADLINE BANNER                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-<img width="100%" src="assets/hero-banner.svg" alt="Bhuvan Somisetty — Building open source. Empowering the future."/>
-
-</div>
+<p align="center">
+  <img
+    src="./assets/hero-banner.png"
+    width="100%"
+    alt="Building Open Source. Empowering the Future. — Linux and Cloud Native developer banner"
+  />
+</p>
 
 <br/>
 
