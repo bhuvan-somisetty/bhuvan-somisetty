@@ -4,15 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050506,50:1a0508,100:2b0a0f&height=190&section=header&text=BUILDING%20OPEN%20SOURCE.%20EMPOWERING%20THE%20FUTURE.&fontSize=30&fontColor=ff3b4e&fontAlignY=42&desc=Passionate%20about%20Linux%20%E2%80%A2%20Cloud%20Native%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Developer%20Experience&descAlignY=65&descSize=15&descColor=c9c9c9"/>
-
-<sub>
-<img src="https://img.shields.io/badge/CNCF%20Ecosystem-Contributor-050506?style=flat-square&labelColor=050506&color=ff3b4e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Linux-Enthusiast-050506?style=flat-square&labelColor=050506&color=ff3b4e&logo=linux&logoColor=ff3b4e"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-050506?style=flat-square&labelColor=050506&color=ff3b4e&logo=opensourceinitiative&logoColor=ff3b4e"/>
-</sub>
+<img width="100%" src="assets/hero-banner.svg" alt="Bhuvan Somisetty — Building open source. Empowering the future."/>
 
 </div>
 

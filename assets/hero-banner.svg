@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060607"/>
+      <stop offset="60%" stop-color="#050506"/>
+      <stop offset="100%" stop-color="#0a0304"/>
+    </linearGradient>
+    <pattern id="circuit" width="70" height="70" patternUnits="userSpaceOnUse">
+      <path d="M0 35 H25 V12 H52 V35 H70 M35 0 V22 H58 V70" fill="none" stroke="#ff2b40" stroke-width="1" opacity="0.14"/>
+      <circle cx="25" cy="12" r="1.6" fill="#ff2b40" opacity="0.22"/>
+      <circle cx="52" cy="35" r="1.6" fill="#ff2b40" opacity="0.22"/>
+    </pattern>
+    <radialGradient id="ambient" cx="76%" cy="52%" r="45%">
+      <stop offset="0%" stop-color="#ff1f3d" stop-opacity="0.20"/>
+      <stop offset="55%" stop-color="#ff1f3d" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#ff1f3d" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="vignette" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#050506" stop-opacity="0.55"/>
+      <stop offset="35%" stop-color="#050506" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#050506" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- tux material defs -->
+    <radialGradient id="bodyGrad" cx="32%" cy="22%" r="95%">
+      <stop offset="0%" stop-color="#4a4a4e"/>
+      <stop offset="22%" stop-color="#232326"/>
+      <stop offset="55%" stop-color="#0d0d0f"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <radialGradient id="bellyGrad" cx="40%" cy="15%" r="100%">
+      <stop offset="0%" stop-color="#dcdad6"/>
+      <stop offset="45%" stop-color="#9b9994"/>
+      <stop offset="100%" stop-color="#4a4844"/>
+    </radialGradient>
+    <radialGradient id="headGrad" cx="38%" cy="25%" r="90%">
+      <stop offset="0%" stop-color="#48484c"/>
+      <stop offset="30%" stop-color="#1e1e21"/>
+      <stop offset="70%" stop-color="#0a0a0b"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <linearGradient id="beakGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#c97a3d"/>
+      <stop offset="100%" stop-color="#6b3813"/>
+    </linearGradient>
+    <linearGradient id="footGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#b56a34"/>
+      <stop offset="100%" stop-color="#5c3010"/>
+    </linearGradient>
+    <linearGradient id="rimGrad" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#ff2b40" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#ff2b40" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="blurS"><feGaussianBlur stdDeviation="3"/></filter>
+    <filter id="blurM"><feGaussianBlur stdDeviation="9"/></filter>
+    <filter id="blurL"><feGaussianBlur stdDeviation="22"/></filter>
+    <filter id="blurXL"><feGaussianBlur stdDeviation="40"/></filter>
+    <clipPath id="bodyClip">
+      <path d="M300 78 C 205 78 152 190 152 300 C 152 420 205 500 300 500 C 395 500 448 420 448 300 C 448 190 395 78 300 78 Z"/>
+    </clipPath>
+    <clipPath id="rightHalfClip">
+      <rect x="300" y="40" width="200" height="520"/>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="420" fill="url(#bgGrad)"/>
+  <rect width="1200" height="420" fill="url(#circuit)"/>
+  <ellipse cx="912" cy="218" rx="340" ry="260" fill="url(#ambient)"/>
+  <rect width="1200" height="420" fill="url(#vignette)"/>
+
+  <!-- headline -->
+  <g font-family="Arial, 'Segoe UI', Helvetica, sans-serif" font-weight="800">
+    <rect x="72" y="96" width="56" height="4" fill="#ff2b40"/>
+    <text x="70" y="168" font-size="46" fill="#f2f2f2" letter-spacing="0.5">BUILDING OPEN SOURCE.</text>
+    <text x="70" y="222" font-size="46" fill="#ff2b40" letter-spacing="0.5">EMPOWERING THE FUTURE.</text>
+  </g>
+  <text x="70" y="266" font-family="Arial, 'Segoe UI', Helvetica, sans-serif" font-size="19" fill="#9a9a9a">
+    Passionate about Linux &#8226; Cloud Native &#8226; AI/ML &#8226; Developer Experience
+  </text>
+
+  <!-- 3D-style Tux, right side -->
+  <g transform="translate(768,24) scale(0.62)">
+    <ellipse cx="410" cy="260" rx="230" ry="230" fill="url(#ambient)" opacity="0.6"/>
+    <ellipse cx="300" cy="548" rx="130" ry="22" fill="#000000" opacity="0.55" filter="url(#blurM)"/>
+
+    <path d="M232 512 Q232 498 260 496 Q288 494 292 512 Q292 528 260 528 Q234 528 232 512 Z" fill="url(#footGrad)"/>
+    <path d="M368 512 Q368 498 340 496 Q312 494 308 512 Q308 528 340 528 Q366 528 368 512 Z" fill="url(#footGrad)"/>
+
+    <g clip-path="url(#rightHalfClip)">
+      <path d="M300 78 C 205 78 152 190 152 300 C 152 420 205 500 300 500 C 395 500 448 420 448 300 C 448 190 395 78 300 78 Z"
+            fill="none" stroke="#ff2b40" stroke-width="10" opacity="0.55" filter="url(#blurL)"/>
+    </g>
+
+    <path d="M300 78 C 205 78 152 190 152 300 C 152 420 205 500 300 500 C 395 500 448 420 448 300 C 448 190 395 78 300 78 Z"
+          fill="url(#bodyGrad)"/>
+
+    <g clip-path="url(#bodyClip)">
+      <rect x="300" y="40" width="160" height="520" fill="url(#rimGrad)" opacity="0.4"/>
+    </g>
+
+    <path d="M158 220 C 108 255 100 350 132 415 C 148 375 152 290 176 240 Z" fill="url(#headGrad)"/>
+    <path d="M442 220 C 492 255 500 350 468 415 C 452 375 448 290 424 240 Z" fill="url(#headGrad)"/>
+    <g clip-path="url(#rightHalfClip)">
+      <path d="M442 220 C 492 255 500 350 468 415 C 452 375 448 290 424 240 Z"
+            fill="none" stroke="#ff2b40" stroke-width="6" opacity="0.5" filter="url(#blurM)"/>
+    </g>
+
+    <ellipse cx="180" cy="270" rx="26" ry="60" fill="#000000" opacity="0.45" filter="url(#blurM)"/>
+    <ellipse cx="420" cy="270" rx="26" ry="60" fill="#000000" opacity="0.45" filter="url(#blurM)"/>
+
+    <path d="M300 168 C 250 168 218 235 218 310 C 218 400 252 455 300 455 C 348 455 382 400 382 310 C 382 235 350 168 300 168 Z"
+          fill="url(#bellyGrad)"/>
+    <ellipse cx="300" cy="440" rx="70" ry="18" fill="#2a2825" opacity="0.5" filter="url(#blurM)"/>
+
+    <path d="M266 258 L334 258 L300 292 Z" fill="url(#beakGrad)"/>
+    <path d="M266 258 L334 258 L300 292 Z" fill="none" stroke="#3a1c08" stroke-width="1.5" opacity="0.4"/>
+
+    <ellipse cx="255" cy="205" rx="21" ry="26" fill="#050506" opacity="0.35" filter="url(#blurS)"/>
+    <ellipse cx="345" cy="205" rx="21" ry="26" fill="#050506" opacity="0.35" filter="url(#blurS)"/>
+    <ellipse cx="255" cy="205" rx="17" ry="22" fill="#e9e8e6"/>
+    <ellipse cx="345" cy="205" rx="17" ry="22" fill="#e9e8e6"/>
+    <circle cx="259" cy="211" r="8.5" fill="#08080a"/>
+    <circle cx="349" cy="211" r="8.5" fill="#08080a"/>
+    <circle cx="262" cy="207" r="2.4" fill="#ffffff"/>
+    <circle cx="352" cy="207" r="2.4" fill="#ffffff"/>
+    <circle cx="256" cy="216" r="1.1" fill="#ff2b40" opacity="0.5"/>
+    <circle cx="346" cy="216" r="1.1" fill="#ff2b40" opacity="0.5"/>
+
+    <ellipse cx="235" cy="130" rx="55" ry="40" fill="#ffffff" opacity="0.10" filter="url(#blurXL)"/>
+    <ellipse cx="222" cy="118" rx="18" ry="12" fill="#ffffff" opacity="0.22" filter="url(#blurL)"/>
+
+    <path d="M448 190 C 448 240 448 280 440 340" fill="none" stroke="#ff4a5c" stroke-width="4" opacity="0.4" filter="url(#blurM)"/>
+  </g>
+</svg>
