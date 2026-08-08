@@ -1,131 +1,164 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    HEADER — WAVE + NAME                       -->
+<!--                    HERO — HEADLINE BANNER                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a0a2e,100:0d0d3d&height=220&section=header&text=Bhuvan%20Somisetty&fontSize=62&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Crafting%20the%20Future%2C%20One%20Commit%20at%20a%20Time&descAlignY=58&descSize=17&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050506,50:1a0508,100:2b0a0f&height=190&section=header&text=BUILDING%20OPEN%20SOURCE.%20EMPOWERING%20THE%20FUTURE.&fontSize=30&fontColor=ff3b4e&fontAlignY=42&desc=Passionate%20about%20Linux%20%E2%80%A2%20Cloud%20Native%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Developer%20Experience&descAlignY=65&descSize=15&descColor=c9c9c9"/>
 
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED TYPING BANNER                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=650&height=55&lines=🎓+B.Tech+CSE+AIML;⚡+Full+Stack+Developer+%7C+React+%2B+Node.js;🤖+AI%2FML+Enthusiast+%26+Open+Source+Builder;🌍+Building+Digital+Products+that+Matter;🚀+Turning+Ideas+into+Scalable+Reality)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SOCIAL BADGES — TOP                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvan-somisetty-951276362/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_bhu1?igsh=MWQ5dHF2OHU0Ymw2cw==)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:somisettybhuvan5@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhuvan-somisetty)
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhuvan-somisetty&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+<sub>
+<img src="https://img.shields.io/badge/CNCF%20Ecosystem-Contributor-050506?style=flat-square&labelColor=050506&color=ff3b4e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-Enthusiast-050506?style=flat-square&labelColor=050506&color=ff3b4e&logo=linux&logoColor=ff3b4e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-050506?style=flat-square&labelColor=050506&color=ff3b4e&logo=opensourceinitiative&logoColor=ff3b4e"/>
+</sub>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ABOUT ME                                   -->
+<!--                    SOCIAL BADGES                               -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050506?style=for-the-badge&logo=linkedin&logoColor=ff3b4e&labelColor=050506)](https://www.linkedin.com/in/bhuvan-somisetty-951276362/)
+[![GitHub](https://img.shields.io/badge/GitHub-050506?style=for-the-badge&logo=github&logoColor=ff3b4e&labelColor=050506)](https://github.com/bhuvan-somisetty)
+[![Email](https://img.shields.io/badge/Email-050506?style=for-the-badge&logo=gmail&logoColor=ff3b4e&labelColor=050506)](mailto:somisettybhuvan5@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=bhuvan-somisetty&style=for-the-badge&color=ff3b4e&labelColor=050506&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ABOUT ME                                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img align="right" width="260" src="assets/tux-hero.svg"/>
 
 ### `> whoami`
 
 ```yaml
 name:     Bhuvan Somisetty
-role:     Full Stack Developer & AI/ML Enthusiast
-study:    B.Tech CSE AIML
-location: India 🇮🇳
-focus:    Building scalable web apps & AI-powered products
-mantra:   "Ship fast. Learn faster. Build things that matter."
+roles:    Full Stack Developer · Linux Enthusiast · Open Source Contributor
+study:    B.Tech CSE (AI/ML)
+focus:    Cloud-native infrastructure, developer tooling, distributed systems
 ```
 
-- 🤖 &nbsp;Developing **AlphaGuard AI** — an intelligent child safety system
-- 🔭 &nbsp;Currently building **ClubSphere** — a full-stack club management platform
-- 🐍 &nbsp;Built **CLI Alarms** — a Python command-line alarm & reminder tool
-- 🌱 &nbsp;Deepening expertise in **Distributed Systems**, **LLMs**, and **System Design**
-- 🛠️ &nbsp;Open source contributor — I believe in building in public
-- 💬 &nbsp;Ask me about React, Node.js, Go, or anything AI/ML
-- ⚡ &nbsp;Fun fact: I debug faster with coffee and lo-fi beats
+Hey there! 👋 I'm Bhuvan — I spend most of my time reading and patching real
+production codebases in the cloud-native ecosystem: Kubernetes, OpenTelemetry,
+Kyverno, KubeEdge, Volcano, and a few others. Outside of upstream work I build
+my own tools end to end, from a Go-based Kubernetes security scanner to
+full-stack web apps.
+
+- 🔧 &nbsp;Actively contributing to CNCF and cloud-native open source projects — see [Open Source Contributions](#-open-source-contributions) below
+- 🛡️ &nbsp;Built [**kmra**](https://github.com/bhuvan-somisetty/kmra) — a concurrent Kubernetes manifest security analyzer in Go
+- 🤖 &nbsp;Built [**ChildShield**](https://github.com/bhuvan-somisetty/ChildShield) — an AI-assisted child safety monitoring app
+- 📄 &nbsp;Built [**ResumeIQ**](https://github.com/bhuvan-somisetty/resumeiq-ai) — an AI resume scoring & ATS-check SaaS
+- 🌱 &nbsp;Learning distributed systems internals and Kubernetes controller design in more depth
+- 💬 &nbsp;Ask me about Go, Kubernetes, React/Next.js, or contributing to CNCF projects
 
 <br clear="right"/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    QUICK METRICS                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><b>Public Repos</b><br/>72</td>
+<td align="center"><b>PRs Opened</b><br/>~<!--PR_COUNT-->311<!--/PR_COUNT--></td>
+<td align="center"><b>PRs Merged</b><br/>~<!--PR_MERGED-->101<!--/PR_MERGED--></td>
+<td align="center"><b>Issues Filed</b><br/>~<!--ISSUE_COUNT-->174<!--/ISSUE_COUNT--></td>
+</tr>
+</table>
+
+<sub>Auto-refreshed daily by <a href="./.github/workflows/update-pr-stats.yml">a GitHub Action</a> against the live GitHub Search API — not hand-typed.</sub>
+
+</div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    DIVIDER                                    -->
+<!--                    TECH STACK                                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">⚙️ &nbsp;Tech Arsenal</h2>
+<h2 align="center">⚙️ &nbsp;Tech Stack</h2>
 
 <div align="center">
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,go,html,css&theme=dark&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,java,js,ts,go,html,css&theme=dark&perline=7)](https://skillicons.dev)
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,vite&theme=dark&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=7)](https://skillicons.dev)
 
-**Backend & Databases**
+**Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis&theme=dark&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark&perline=7)](https://skillicons.dev)
 
-**Cloud, DevOps & Tools**
+**Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&theme=dark&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark&perline=7)](https://skillicons.dev)
 
 **AI / ML**
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=py,pytorch&theme=dark&perline=7)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-ff3b4e?style=flat-square"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-ff3b4e?style=flat-square"/>
+
+**DevOps & Cloud**
+
+[![Skills](https://skillicons.dev/icons?i=docker,kubernetes,githubactions&theme=dark&perline=7)](https://skillicons.dev)
+
+**Tools**
+
+[![Skills](https://skillicons.dev/icons?i=git,github&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                               -->
+<!--                    CURRENT INTERESTS                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📊 &nbsp;GitHub Intelligence</h2>
+<h2 align="center">🎯 &nbsp;Current Interests</h2>
 
 <div align="center">
 
+|  |  |
+|:---|:---|
+| 🤖 Artificial Intelligence | 🧠 Machine Learning |
+| 💻 Full Stack Development | 🌐 Open Source |
+| ☁️ Cloud & Cloud-Native Technologies | ⚙️ Backend & Distributed Systems |
 
 </div>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATS                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📊 &nbsp;GitHub Stats</h2>
 
 <div align="center">
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhuvan-somisetty&theme=github_dark"/>
 &nbsp;
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhuvan-somisetty&theme=github_dark"/>
-&nbsp;
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bhuvan-somisetty&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
@@ -133,57 +166,21 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhuvan-somisetty&theme=github_dark"/>
+<img width="75%" src="https://streak-stats.demolab.com/?user=bhuvan-somisetty&theme=github-dark-blue&background=050506&border=2b0a0f&stroke=ff3b4e&ring=ff3b4e&fire=ff3b4e&currStreakLabel=ff3b4e&sideLabels=c9c9c9&dates=8a8a8a&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
 <br/>
-
-<!-- STREAK STATS -->
-
-<div align="center">
-
-<img width="68%" src="https://streak-stats.demolab.com/?user=bhuvan-somisetty&theme=github-dark-blue&border=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TROPHIES                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🏆 &nbsp;GitHub Trophies</h2>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bhuvan-somisetty&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTION GRAPH                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📈 &nbsp;Contribution Activity</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-somisetty&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb20&hide_border=true&custom_title=Bhuvan's%20Contribution%20Graph&radius=6"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-somisetty&bg_color=050506&color=ff3b4e&line=ff3b4e&point=ffffff&area=true&area_color=ff3b4e&hide_border=true&custom_title=Bhuvan's%20Contribution%20Graph&radius=6"/>
 
 </div>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    3D CONTRIBUTION GRAPH                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🌐 &nbsp;3D Contribution Graph</h2>
 
@@ -195,71 +192,107 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
   <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </picture>
 
+<sub>Regenerated nightly by <a href="./.github/workflows/profile-3d.yml">a GitHub Action</a> from real commit history.</sub>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                          -->
+<!--                    OPEN SOURCE CONTRIBUTIONS                   -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🚀 &nbsp;Featured Projects</h2>
+<h2 align="center">🌱 &nbsp;Open Source Contributions</h2>
+
+<div align="center">
+
+I contribute primarily to CNCF and cloud-native projects — mostly reliability
+fixes, race conditions, and correctness bugs in Go services.
+
+| Project | Area |
+|:---|:---|
+| [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) | Kubernetes web UI |
+| [kubescape/kubevuln](https://github.com/kubescape/kubevuln) | Container vulnerability scanning |
+| [open-telemetry/opentelemetry-go-compile-instrumentation](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation) | Go auto-instrumentation |
+| [kyverno/kyverno](https://github.com/kyverno/kyverno) | Kubernetes policy engine |
+| [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) | Kubernetes-native edge computing |
+| [volcano-sh/volcano](https://github.com/volcano-sh/volcano) | Cloud-native batch scheduling |
+| [kubeflow/pipelines](https://github.com/kubeflow/pipelines) | ML pipelines on Kubernetes |
+| [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) | Distributed tracing |
+
+<br/>
+
+**Recent merged pull requests**
+
+| PR | Repository |
+|:---|:---|
+| [Fix token paste blocked in Chrome on password input](https://github.com/kubernetes-sigs/headlamp/pull/6282) | headlamp |
+| [Enable storage, exception filtering & VEX generation in ScanRegistry](https://github.com/kubescape/kubevuln/pull/485) | kubevuln |
+| [Make GLS span tracker capacity limits deterministic](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/pull/911) | opentelemetry-go-compile-instrumentation |
+| [Remove sidecar RPC-wide lock, fix Version() cache poisoning](https://github.com/kubescape/kubevuln/pull/474) | kubevuln |
+| [Bound graceful shutdown drain time instead of blocking indefinitely](https://github.com/kubescape/kubevuln/pull/468) | kubevuln |
+
+<sub>Full history: <a href="https://github.com/pulls?q=is%3Apr+author%3Abhuvan-somisetty">github.com/pulls?author=bhuvan-somisetty</a></sub>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PINNED REPOSITORIES                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">📌 &nbsp;Pinned Repositories</h2>
 
 <br/>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AlphaGuard AI</h3>
-      <p>AI-powered child safety system with real-time threat detection, smart alerts, and intelligent content monitoring using computer vision.</p>
+      <h3>🛡️ kmra</h3>
+      <p>A high-performance Kubernetes manifest security analyzer written in Go — concurrent scanning, rule-based analysis, and multi-format reporting (terminal, JSON, HTML, SARIF).</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/github/stars/bhuvan-somisetty/kmra?style=flat-square&color=ff3b4e&labelColor=050506"/>
       </p>
-      <a href="https://github.com/bhuvan-somisetty/alphaguard-ai">
-        <img src="https://img.shields.io/badge/View%20Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+      <a href="https://github.com/bhuvan-somisetty/kmra">
+        <img src="https://img.shields.io/badge/View%20Repo-050506?style=for-the-badge&logo=github&logoColor=ff3b4e&labelColor=050506"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏢 ClubSphere</h3>
-      <p>Full-stack platform to manage college clubs — memberships, events, and announcements with real-time updates and role-based access.</p>
+      <h3>📄 ResumeIQ</h3>
+      <p>AI-powered resume analysis SaaS — instant scoring, ATS checks, and job-matched rewrites. Built with Next.js 15, Prisma, Clerk, and OpenAI.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/github/stars/bhuvan-somisetty/resumeiq-ai?style=flat-square&color=ff3b4e&labelColor=050506"/>
       </p>
-      <a href="https://github.com/bhuvan-somisetty/clubsphere">
-        <img src="https://img.shields.io/badge/View%20Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+      <a href="https://github.com/bhuvan-somisetty/resumeiq-ai">
+        <img src="https://img.shields.io/badge/View%20Repo-050506?style=for-the-badge&logo=github&logoColor=ff3b4e&labelColor=050506"/>
       </a>
     </td>
   </tr>
   <tr><td colspan="2"><br/></td></tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏨 Hostel & Mess Feedback</h3>
-      <p>Centralized feedback platform for hostel residents with analytics dashboard, complaint tracking, and admin resolution workflows.</p>
+      <h3>🧒 ChildShield</h3>
+      <p>AI-assisted child safety monitoring application, deployed and live.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/github/stars/bhuvan-somisetty/ChildShield?style=flat-square&color=ff3b4e&labelColor=050506"/>
       </p>
-      <a href="https://github.com/bhuvan-somisetty/hostel-mess-feedback">
-        <img src="https://img.shields.io/badge/View%20Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+      <a href="https://github.com/bhuvan-somisetty/ChildShield">
+        <img src="https://img.shields.io/badge/View%20Repo-050506?style=for-the-badge&logo=github&logoColor=ff3b4e&labelColor=050506"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🐍 CLI Alarms</h3>
-      <p>Python command-line alarm and reminder tool — set, manage, and trigger alarms directly from your terminal with a clean CLI interface.</p>
+      <h3>🏨 Hostel & Mess Feedback System</h3>
+      <p>QR-based feedback system for hostel residents — structured issue reporting, meal-wise feedback, and centralized tracking for faster resolution.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CLI-Tool-58a6ff?style=flat-square"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/github/stars/bhuvan-somisetty/Hostel-Mess-Feedback-System?style=flat-square&color=ff3b4e&labelColor=050506"/>
       </p>
-      <a href="https://github.com/bhuvan-somisetty/cli-alarms">
-        <img src="https://img.shields.io/badge/View%20Repo-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+      <a href="https://github.com/bhuvan-somisetty/Hostel-Mess-Feedback-System">
+        <img src="https://img.shields.io/badge/View%20Repo-050506?style=for-the-badge&logo=github&logoColor=ff3b4e&labelColor=050506"/>
       </a>
     </td>
   </tr>
@@ -267,69 +300,20 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    OPEN SOURCE                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">🌐 &nbsp;Open Source Contributions</h2>
-
-<br/>
-
-<div align="center">
-
-> *"The best code is code the world can see, improve, and build upon."*
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Activity | Details |
-|:---|:---|
-| 🔧 **Bug Fixes** | Identified and patched issues in community-driven repositories |
-| 📝 **Documentation** | Improved READMEs, setup guides, and API docs for OSS projects |
-| 🔍 **Code Reviews** | Reviewed PRs and provided constructive feedback in active repos |
-| 🌱 **Jaeger Tracing** | Contributor to the CNCF Jaeger distributed tracing project |
-| 💡 **Issue Reporting** | Filed detailed bug reports with reproducible steps |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-58a6ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-1f6feb?style=for-the-badge&logo=github&logoColor=white)
-![CNCF](https://img.shields.io/badge/CNCF-Ecosystem-0086ff?style=for-the-badge&logo=cncf&logoColor=white)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CURRENTLY LEARNING                         -->
+<!--                    CURRENTLY LEARNING                          -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🧠 &nbsp;Currently Learning & Building</h2>
-
-<br/>
 
 <div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   📚  Learning       →  System Design & Distributed Systems │
-│   🤖  Exploring      →  LLMs, RAG Pipelines, Vector DBs    │
-│   🛠️  Building       →  ClubSphere v2 + AlphaGuard AI      │
-│   🌐  Contributing   →  CNCF Jaeger Tracing Project        │
-│   📖  Reading        →  DDIA + Designing ML Systems        │
-│                                                             │
+│   📚  Learning       →  Distributed systems & K8s internals │
+│   🛠️  Building       →  kmra + ResumeIQ                     │
+│   🌐  Contributing   →  CNCF / cloud-native OSS projects     │
+│   📖  Reading        →  Designing Data-Intensive Applications│
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -337,87 +321,42 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 
 <br/>
 
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-In%20Progress-ff6b6b?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-Exploring-7c3aed?style=flat-square&logo=openai&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PULL REQUEST STATS                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">📬 &nbsp;Pull Request Activity</h2>
-
-<br/>
-
-<div align="center">
-
-![PRs Raised](https://img.shields.io/badge/PRs%20Raised-<!--PR_COUNT-->269<!--/PR_COUNT-->-58a6ff?style=for-the-badge&logo=github&logoColor=white)
-![PRs Merged](https://img.shields.io/badge/PRs%20Merged-<!--PR_MERGED-->75<!--/PR_MERGED-->-1f6feb?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CONNECT                                    -->
+<!--                    CONNECT                                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">🤝 &nbsp;Let's Connect</h2>
 
-<br/>
-
 <div align="center">
 
+<a href="https://github.com/bhuvan-somisetty">
+  <img src="https://img.shields.io/badge/GitHub-050506?style=for-the-badge&logo=github&logoColor=ff3b4e&labelColor=050506"/>
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/bhuvan-somisetty-951276362/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-050506?style=for-the-badge&logo=linkedin&logoColor=ff3b4e&labelColor=050506"/>
 </a>
 &nbsp;
 <a href="mailto:somisettybhuvan5@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/your_bhu1?igsh=MWQ5dHF2OHU0Ymw2cw==">
-  <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-050506?style=for-the-badge&logo=gmail&logoColor=ff3b4e&labelColor=050506"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-```
-  Open to:  Internships  ·  Collaborations  ·  Open Source  ·  Mentorship
-```
+Open to internships, open-source collaboration, and interesting technical conversations.
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FOOTER WAVE                                -->
+<!--                    FOOTER                                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d3d,60:0a0a2e,100:0d1117&height=140&section=footer&animation=fadeIn"/>
 
 <div align="center">
 
-<sub>Crafted with precision · Powered by curiosity · Built for impact</sub>
+> "Talk is cheap. Show me the code." — Linus Torvalds
 
 </div>
 
-
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2b0a0f,50:1a0508,100:050506&height=100&section=footer"/>

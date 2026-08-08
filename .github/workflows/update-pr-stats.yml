@@ -40,6 +40,7 @@ jobs:
 
           total  = count_prs("type:pr+author:bhuvan-somisetty")
           merged = count_prs("type:pr+author:bhuvan-somisetty+is:merged")
+          issues = count_prs("type:issue+author:bhuvan-somisetty")
 
           with open("README.md", "r", encoding="utf-8") as f:
               content = f.read()
@@ -47,11 +48,12 @@ jobs:
           import re
           content = re.sub(r"<!--PR_COUNT-->[0-9]*<!--/PR_COUNT-->", f"<!--PR_COUNT-->{total}<!--/PR_COUNT-->", content)
           content = re.sub(r"<!--PR_MERGED-->[0-9]*<!--/PR_MERGED-->", f"<!--PR_MERGED-->{merged}<!--/PR_MERGED-->", content)
+          content = re.sub(r"<!--ISSUE_COUNT-->[0-9]*<!--/ISSUE_COUNT-->", f"<!--ISSUE_COUNT-->{issues}<!--/ISSUE_COUNT-->", content)
 
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(content)
 
-          print(f"Total: {total}, Merged: {merged}")
+          print(f"Total: {total}, Merged: {merged}, Issues: {issues}")
           EOF
 
       - name: Commit if changed
