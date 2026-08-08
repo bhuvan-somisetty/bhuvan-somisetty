@@ -18,8 +18,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050506?style=for-the-badge&logo=linkedin&logoColor=ff3b4e&labelColor=050506)](https://www.linkedin.com/in/bhuvan-somisetty-951276362/)
+<h3>LET'S CONNECT</h3>
+
 [![GitHub](https://img.shields.io/badge/GitHub-050506?style=for-the-badge&logo=github&logoColor=ff3b4e&labelColor=050506)](https://github.com/bhuvan-somisetty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-050506?style=for-the-badge&logo=linkedin&logoColor=ff3b4e&labelColor=050506)](https://www.linkedin.com/in/bhuvan-somisetty-951276362/)
+[![Instagram](https://img.shields.io/badge/Instagram-050506?style=for-the-badge&logo=instagram&logoColor=ff3b4e&labelColor=050506)](https://www.instagram.com/your_bhu1?igsh=MWQ5dHF2OHU0Ymw2cw==)
 [![Email](https://img.shields.io/badge/Email-050506?style=for-the-badge&logo=gmail&logoColor=ff3b4e&labelColor=050506)](mailto:somisettybhuvan5@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bhuvan-somisetty&style=for-the-badge&color=ff3b4e&labelColor=050506&label=PROFILE+VIEWS)
