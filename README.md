@@ -34,8 +34,8 @@
 
 ### `> whoami`
 
-**Bhuvan Somisetty**
-Full Stack Developer &middot; Linux Enthusiast &middot; Open Source Contributor
+**Bhuvan Somisetty**<br/>
+Full Stack Developer &middot; Linux Enthusiast &middot; Open Source Contributor<br/>
 B.Tech CSE (AI/ML)
 
 Hey! I'm Bhuvan — I enjoy working on real-world software, exploring cloud-native
