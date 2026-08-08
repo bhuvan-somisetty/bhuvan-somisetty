@@ -32,31 +32,28 @@
 <!--                    ABOUT ME                                    -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="260" src="assets/tux-hero.svg"/>
-
 ### `> whoami`
 
-```yaml
-name:     Bhuvan Somisetty
-roles:    Full Stack Developer · Linux Enthusiast · Open Source Contributor
-study:    B.Tech CSE (AI/ML)
-focus:    Cloud-native infrastructure, developer tooling, distributed systems
-```
+**Bhuvan Somisetty**
+Full Stack Developer &middot; Linux Enthusiast &middot; Open Source Contributor
+B.Tech CSE (AI/ML)
 
-Hey there! 👋 I'm Bhuvan — I spend most of my time reading and patching real
-production codebases in the cloud-native ecosystem: Kubernetes, OpenTelemetry,
-Kyverno, KubeEdge, Volcano, and a few others. Outside of upstream work I build
-my own tools end to end, from a Go-based Kubernetes security scanner to
-full-stack web apps.
+Hey! I'm Bhuvan — I enjoy working on real-world software, exploring cloud-native
+technologies, and contributing to open source. Most of my open-source time goes
+into patching real production codebases across the Kubernetes ecosystem —
+[kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp), [kyverno](https://github.com/kyverno/kyverno),
+[kubeedge](https://github.com/kubeedge/kubeedge), [volcano](https://github.com/volcano-sh/volcano), and
+[opentelemetry](https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation). Outside of upstream
+work I build my own tools end to end, from a Go-based Kubernetes security scanner
+([kmra](https://github.com/bhuvan-somisetty/kmra)) to full-stack AI-powered apps
+([ResumeIQ](https://github.com/bhuvan-somisetty/resumeiq-ai), [ChildShield](https://github.com/bhuvan-somisetty/ChildShield)).
 
-- 🔧 &nbsp;Actively contributing to CNCF and cloud-native open source projects — see [Open Source Contributions](#-open-source-contributions) below
-- 🛡️ &nbsp;Built [**kmra**](https://github.com/bhuvan-somisetty/kmra) — a concurrent Kubernetes manifest security analyzer in Go
-- 🤖 &nbsp;Built [**ChildShield**](https://github.com/bhuvan-somisetty/ChildShield) — an AI-assisted child safety monitoring app
-- 📄 &nbsp;Built [**ResumeIQ**](https://github.com/bhuvan-somisetty/resumeiq-ai) — an AI resume scoring & ATS-check SaaS
-- 🌱 &nbsp;Learning distributed systems internals and Kubernetes controller design in more depth
-- 💬 &nbsp;Ask me about Go, Kubernetes, React/Next.js, or contributing to CNCF projects
+**Currently focused on:**
+- Linux &amp; Cloud-Native Infrastructure
+- Kubernetes &amp; Developer Tooling
+- Open Source Contributions
+- AI/ML &amp; Full-Stack Engineering
 
-<br clear="right"/>
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
